@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos.csproj": {}
+    "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos.csproj": {
+    "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos.csproj",
-        "projectName": "APIAsyncRestFullHostelCocos",
-        "projectPath": "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos.csproj",
+        "projectUniqueName": "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\eaparicio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\APIAsyncRestFullHostelCocos\\obj\\",
+        "outputPath": "C:\\Users\\eaparicio\\Google Drive\\Applications Development\\Git\\APIAsyncRestFullHostelCocos\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eaparicio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -50,9 +50,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
